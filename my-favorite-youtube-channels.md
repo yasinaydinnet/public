@@ -1,6 +1,6 @@
-- https://www.youtube.com/@kurzgesagt
-- https://www.youtube.com/@GeographyNow
-- https://www.youtube.com/@TomScottGo
-- https://www.youtube.com/@tomscottplus
-- https://www.youtube.com/@MinutePhysics
-- https://www.youtube.com/@extrahistory
+- <https://www.youtube.com/@kurzgesagt>
+- <https://www.youtube.com/@GeographyNow>
+- <https://www.youtube.com/@TomScottGo>
+- <https://www.youtube.com/@tomscottplus>
+- <https://www.youtube.com/@MinutePhysics>
+- <https://www.youtube.com/@extrahistory>
