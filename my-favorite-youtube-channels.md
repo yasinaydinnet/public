@@ -3,3 +3,4 @@
 - https://www.youtube.com/@TomScottGo
 - https://www.youtube.com/@tomscottplus
 - https://www.youtube.com/@MinutePhysics
+- https://www.youtube.com/@extrahistory
